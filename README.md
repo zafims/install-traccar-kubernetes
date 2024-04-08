@@ -8,3 +8,7 @@
     kubectl apply -f deployment.yml
 
     kubectl apply -f service.yml
+
+================= Install Traccar Manually + Docker ======================
+
+https://github.com/zafims/install-traccar/blob/main/README.md
